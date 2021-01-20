@@ -1,3 +1,6 @@
+rem Do not edit this code piece without any knowledge! Any "rem ShadeBoxAt a b c x y" should not be modified unless you know what you're doing!
+rem Start a pull request instead of a straight commit to avoid bugs.
+
 @echo off
 :start_screen
 cls
