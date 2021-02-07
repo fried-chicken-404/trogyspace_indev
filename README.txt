@@ -4,4 +4,5 @@ Progress: In development (aka Alpha)
 
 Logs:
 [20-1-2021 5:06 PM UTC+09:30] Finished splash screen on startup
+[07-2-2021 3:53 PM UTC+-9:30] Recompile source to C++
 
